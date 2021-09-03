@@ -1,4 +1,4 @@
-# Hola!!, Bienvenid@ 👋🙋
+# Hola!!👋🙋
 
 ![](https://github.com/krmenugo/krmenugo/blob/master/CarmenNG.gif)
 
